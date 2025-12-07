@@ -1,0 +1,15 @@
+.fileid.db
+.uv
+.uv.lock
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.ip
